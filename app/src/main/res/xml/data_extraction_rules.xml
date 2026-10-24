@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <cloud-backup>
+        <!-- Aici poți adăuga reguli de includere/excludere pentru Google Drive dacă va fi nevoie -->
+    </cloud-backup>
+    <device-transfer>
+        <!-- Aici poți adăuga reguli pentru transferul direct între telefoane -->
+    </device-transfer>
+</data-extraction-rules>
